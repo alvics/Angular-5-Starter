@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "https://alvics.github.io/Angular-5-Bootstrap-4/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://alvics.github.io/Angular-5-Bootstrap-4/favicon.ico",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/index.html",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/inline.3651c1a5e315b4bd779c.bundle.js",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/main.8b54af43404c7d6cdcb3.bundle.js",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/scripts.31c04f2af54697d5c90a.bundle.js",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/styles.456f9df73aff597e9a0f.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://alvics.github.io/Angular-5-Bootstrap-4/assets/bootstrap-angularjs.jpg",
+        "https://alvics.github.io/Angular-5-Bootstrap-4/assets/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://alvics.github.io/Angular-5-Bootstrap-4/inline.3651c1a5e315b4bd779c.bundle.js": "47670d21de46cdf87792770ba90fa291f7b6f4c5",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/assets/bootstrap-angularjs.jpg": "588f5ae2686b7bdf4774e5eeb3f7fdccd1558598",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/main.8b54af43404c7d6cdcb3.bundle.js": "f5dbe156ac7d55ff03bdc4b8f0dd612173b52714",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/assets/logo.png": "9cf2018a866e50b6faf248e6a1e4220c9ad69198",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/scripts.31c04f2af54697d5c90a.bundle.js": "0f3a94122538482ed5b41c8e15fccdf4df910af9",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/styles.456f9df73aff597e9a0f.bundle.css": "714c3d003cb8525f6d14cd7e0f45d12e46134c40",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://alvics.github.io/Angular-5-Bootstrap-4/index.html": "48868c0d2ee9902294ec39d833d8232f034004f7"
+  }
+}
